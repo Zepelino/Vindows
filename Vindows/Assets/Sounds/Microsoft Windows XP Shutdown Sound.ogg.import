@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Microsoft Windows XP Shutdown Sound.ogg-0b2b22714facaa21980116ee255f0621.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Microsoft Windows XP Shutdown Sound.ogg"
+dest_files=[ "res://.import/Microsoft Windows XP Shutdown Sound.ogg-0b2b22714facaa21980116ee255f0621.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

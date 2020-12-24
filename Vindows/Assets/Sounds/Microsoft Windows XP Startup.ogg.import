@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Microsoft Windows XP Startup.ogg-5f97d417e1c543c949f38a612aeb460b.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Microsoft Windows XP Startup.ogg"
+dest_files=[ "res://.import/Microsoft Windows XP Startup.ogg-5f97d417e1c543c949f38a612aeb460b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

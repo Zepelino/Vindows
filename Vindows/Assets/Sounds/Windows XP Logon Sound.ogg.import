@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Windows XP Logon Sound.ogg-9e568f8b7f11a6cb24f8f860d818253f.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Windows XP Logon Sound.ogg"
+dest_files=[ "res://.import/Windows XP Logon Sound.ogg-9e568f8b7f11a6cb24f8f860d818253f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
